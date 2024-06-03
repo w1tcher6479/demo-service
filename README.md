@@ -1,4 +1,4 @@
-# demo-service [![Go Report Card](https://goreportcard.com/badge/github.com/w1tcher6479/demo-service)](https://goreportcard.com/report/github.com/w1tcher6479/demo-service)
+# demo-service [![Go Report Card](https://goreportcard.com/badge/github.com/w1tcher6479/demo-service)](https://goreportcard.com/report/github.com/w1tcher6479/demo-service) [![Release](https://img.shields.io/github/release/w1tcher6479/demo-service.svg?style=flat-square)](https://github.com/w1tcher6479/demo-service/releases/latest)
 
 make compose - поднять контейнеры
 
