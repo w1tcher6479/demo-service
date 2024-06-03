@@ -1,4 +1,4 @@
-# demo-service
+# demo-service [![Go Report Card](https://goreportcard.com/badge/github.com/w1tcher6479/demo-service)](https://goreportcard.com/report/github.com/w1tcher6479/demo-service)
 
 make compose - поднять контейнеры
 
